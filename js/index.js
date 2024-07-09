@@ -3,7 +3,10 @@ document.addEventListener('DOMContentLoaded', function() {
         autoScrolling: true,
         navigation: true,
         navigationPosition: 'left',
-        navigationTooltips: ['Stars World', 'Info', 'Join us', 'End'],
+        navigationTooltips: ['Stars World', 
+                             'Info',
+                             'Join us', 
+                             'End'],
         showActiveTooltip: false,
         scrollingSpeed: 700
     });
