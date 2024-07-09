@@ -76,3 +76,12 @@
 
 /* Miscellaneous stylesheets */
 
+#icon {
+    width: 100px;
+    height: 100px;
+    transition-duration: 0.2s;
+}
+
+#icon:hover {
+    transform: scale(1.2);
+}
