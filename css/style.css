@@ -1,0 +1,78 @@
+/* Section styles and properties */
+
+.section {
+    text-align: center;
+    font-size: 3em;
+    color: white;
+}
+
+#section1 {
+    /*
+    background-image: url("../img/section1.jpg");    \\\
+    background-size: 28em;                              |||=> NOT USED! Kept here for reference and it may be used later.
+    background-repeat: no-repeat;                       ///
+    */
+
+    background-color: #000000;
+}
+
+#section2 {
+    /* 
+    background-image: url("../img/section2.jpg"); \\\
+    background-size: 28em;                        |||=> NOT USED! Kept here for reference and it may be used later.
+    background-repeat: no-repeat;                 ///
+    */
+
+    background: linear-gradient(180deg, #000000 0%, #151827 100%)
+}
+
+#section3 {
+    background: linear-gradient(180deg, #151827 0%, #414868 100%)
+}
+
+#section4 {
+    background: linear-gradient(180deg, #414868 0%, #5d70c6 100%)
+}
+
+/* Fonts, text etc. */
+
+#sw {
+    font-family: 'montserrat';
+}
+
+#sw2 {
+    font-family: 'montserrat';
+    font-size: 0.5em;
+}
+
+#sw3 {
+    font-family: 'roboto';
+    font-size: 0.4em;
+}
+
+#scrolldown {
+    font-family: 'montserrat';
+    font-size: 0.4em;
+    color: #c7c7c7;
+    margin-top: 230px;
+}
+
+#ul-nodecor {
+    list-style: none;
+    font-family: 'roboto';
+    font-size: 0.4em;
+}
+
+#link {
+    color: #5d70c6;
+    text-decoration: none;
+    transition-duration: 0.5s;
+    font-family: 'Roboto';
+}
+
+#link:hover {
+    color: #151827;
+}
+
+/* Miscellaneous stylesheets */
+
