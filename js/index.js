@@ -8,6 +8,6 @@ document.addEventListener('DOMContentLoaded', function() {
                              'Join us', 
                              'End'],
         showActiveTooltip: false,
-        scrollingSpeed: 700
+        scrollingSpeed: 1200,
     });
 });
