@@ -50,6 +50,11 @@
     font-size: 0.4em;
 }
 
+#smallp {
+    font-family: 'roboto';
+    font-size: 0.4em;
+}
+
 #scrolldown {
     font-family: 'montserrat';
     font-size: 0.4em;
@@ -63,6 +68,8 @@
     font-size: 0.4em;
 }
 
+/* Links' properties */
+
 #link {
     color: #5d70c6;
     text-decoration: none;
@@ -72,6 +79,17 @@
 
 #link:hover {
     color: #151827;
+}
+
+#link2 {
+    color: #391515;
+    text-decoration: none;
+    transition-duration: 0.5s;
+    font-family: 'Roboto';
+}
+
+#link2:hover {
+    color: #333333;
 }
 
 /*  Miscellaneous stylesheets */

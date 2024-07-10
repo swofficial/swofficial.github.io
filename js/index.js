@@ -9,5 +9,6 @@ document.addEventListener('DOMContentLoaded', function() {
                              'End'],
         showActiveTooltip: false,
         scrollingSpeed: 1200,
+        loopBottom: true,
     });
 });
