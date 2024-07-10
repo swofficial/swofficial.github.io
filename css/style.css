@@ -96,16 +96,21 @@
     color: #333333;
 }
 
-/* Header styles */
-
 /*  Miscellaneous stylesheets */
 
 #icon {
     width: 100px;
     height: 100px;
     transition-duration: 0.2s;
+    margin-bottom: 25px;
 }
 
 #icon:hover {
     transform: scale(1.2);
+}
+
+#dcwidget {
+    display: block;
+    margin: 0 auto;
+    margin-top: 25px;
 }
