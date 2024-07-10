@@ -34,6 +34,10 @@
     background: linear-gradient(180deg, #414868 0%, #5d70c6 100%)
 }
 
+#section5 {
+    background: linear-gradient(180deg, #5C6FC4 0%, #b5a68e 100%)
+}
+
 /* Fonts, text etc. */
 
 #sw {
@@ -91,6 +95,8 @@
 #link2:hover {
     color: #333333;
 }
+
+/* Header styles */
 
 /*  Miscellaneous stylesheets */
 

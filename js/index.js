@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
         navigationTooltips: ['Stars World', 
                              'Info',
                              'Join us', 
+                             'Partners',
                              'End'],
         showActiveTooltip: false,
         scrollingSpeed: 1200,
